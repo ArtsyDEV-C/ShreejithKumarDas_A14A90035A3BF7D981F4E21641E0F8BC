@@ -1,4 +1,4 @@
-#program for create objects batsman and bowler classes and call the play() method for each objects
+#program for to create objects batsman and bowler classes and call the play() method for each objects
 #create base class player
 class player:
   def play(self):
